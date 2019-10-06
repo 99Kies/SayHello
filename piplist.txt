@@ -5,3 +5,5 @@ flask_moment
 flask_debugtoolbar
 wtforms
 flask_wtf
+faker
+bootstrap-flask
